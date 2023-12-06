@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: arial;
+    padding: 10px;
+    background:rgb(248, 191, 191) ;
+}
+/*Header*/
+.header{
+    padding: 30px;
+    text-align: center;
+    background: rgb(171, 204, 255);
+}
